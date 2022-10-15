@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+
+#### Name: [Sanhati Kundu](https://github.com/Sanhati)
+- Place: Kolkata, India
+- Bio: Machine learning and AI enthusiast
+- Github: [Ítalo Epifânio](https://github.com/Sanhati)
